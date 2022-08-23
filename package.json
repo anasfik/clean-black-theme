@@ -2,9 +2,20 @@
   "name": "clean-black",
   "displayName": "clean black",
   "description": "blackest black based theme",
-  "version": "0.0.1",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.70.0"
+  },
+  "publisher": "Gwhyyyy",
+  "icon": "assets/logo.png",
+  "author": {
+    "name": "VSCode Theme Author",
+    "email": "ffikhi.aanas@gmail.com",
+    "url": "https://www.linkedin.com/in/mohamed-anas-fikhi-36129822a/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anasfik/clean-black-theme"
   },
   "categories": [
     "Themes"
